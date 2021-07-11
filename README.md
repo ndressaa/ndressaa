@@ -67,6 +67,6 @@
   
   [![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndressaa&theme=dark&hide=prs,issues&hide_rank=true&show_icons=true&line_height=30&count_private=true&icon_color=FF00FF)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndressaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndressaa&layout=compact&theme=dark&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
