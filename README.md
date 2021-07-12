@@ -54,7 +54,7 @@
   <img src="https://img.icons8.com/color/2x/typescript.png" width="70" alt="TypeScript">
   <img src="https://img.icons8.com/color/2x/react-native.png" width="70" alt="React">
   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/react-native.png" width="70" alt="React Native">
-  <img src="https://img.icons8.com/ios-filled/2x/4a90e2/php-logo.png" width="70" alt="PHP"> &nbsp;
+<!--   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/php-logo.png" width="70" alt="PHP"> -->
 <!--   <img src="https://img.icons8.com/color/2x/4a90e2/mysql-logo.png" width="70" alt="MySQL">  -->
 <!--   <img src="https://img.icons8.com/color/2x/python.png" width="70" alt="Python"> -->
 </p>
